@@ -8,7 +8,7 @@ I’m an AI & Business Analytics professional with a strong focus on NLP, Agenti
 💞️ I’m open to collaborating on AI, data science, and analytics projects that solve practical business or social problems.  
 📫 How to reach me: LinkedIn | Email  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy turning complex research ideas into practical AI tools and dashboards that non-technical users can understand.
+⚡ Fun fact: When I’m not working with AI and data, you’ll probably find me watching football, at the gym, or planning my next trip.
 
 📂 Featured Repositories  
 🤖 Topic Modeling on Fast-Charging EV Comments – NLP-based analysis of public sentiment and discussion trends around EV fast charging.  
